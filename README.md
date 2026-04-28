@@ -1,5 +1,7 @@
 ---
 og_image: /nullifier-composition.png
+title: Insights for Shielded CSV from Tachyon
+description: Shielded CSV and Zcash will eventually converge to the same protocol.
 permalink: /
 ---
 
