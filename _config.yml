@@ -1,3 +1,4 @@
 remote_theme: ggutoski/ggutoski.github.io
 plugins:
   - jekyll-remote-theme
+url: "https://ggutoski.github.io"

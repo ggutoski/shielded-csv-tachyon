@@ -1,3 +1,8 @@
+---
+og_image: /nullifier-composition.png
+permalink: /
+---
+
 # Insights for Shielded CSV from Tachyon
 
 Gus Gutoski, 2026-04-07
